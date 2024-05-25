@@ -18,7 +18,7 @@ Before getting started, ensure you have the following installed:
 ## Installation
 1. Clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/manuchekhr32/nuxt-starter
+git clone https://github.com/abduqahhorovaziz/qtim-test
 ```
 
 2. Navigate to the cloned directory:
